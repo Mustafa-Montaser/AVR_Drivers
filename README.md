@@ -1,2 +1,2 @@
 # AVR_Drivers
-ATMEGA32 Drivers
+AVR ATMEGA32 Drivers [HAL and MCAL layers]
